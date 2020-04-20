@@ -1,0 +1,6 @@
+private_keys/*
+!private_keys/__init__.py
+migrations/*
+domain_list.json
+.idea
+db.sqlite3
